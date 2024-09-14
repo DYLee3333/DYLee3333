@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+My name is DoYoung Lee and I'm majoring Artificial Intelligence.
 <!--
 **DYLee3333/DYLee3333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
